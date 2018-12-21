@@ -1,17 +1,17 @@
 {
   "name": "redux-persist-transform-immutable",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "description": "immutable.js transform for redux-persist",
   "main": "index.js",
   "scripts": {
     "test": "echo \"no test specified\" && exit 0"
   },
   "dependencies": {
-    "remotedev-serialize": "^0.1.0"
+    "remotedev-serialize": "^0.1.8"
   },
   "peerDependencies": {
-    "redux-persist": "^4.0.0",
-    "immutable": ">= 3"
+    "redux-persist": "^5.0.0",
+    "immutable": ">= 4"
   },
   "repository": {
     "type": "git",
